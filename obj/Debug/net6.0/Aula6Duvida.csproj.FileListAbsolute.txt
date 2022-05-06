@@ -1,0 +1,15 @@
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\Aula6Duvida\bin\Debug\net6.0\Aula6Duvida.exe
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\Aula6Duvida\bin\Debug\net6.0\Aula6Duvida.deps.json
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\Aula6Duvida\bin\Debug\net6.0\Aula6Duvida.runtimeconfig.json
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\Aula6Duvida\bin\Debug\net6.0\Aula6Duvida.dll
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\Aula6Duvida\bin\Debug\net6.0\Aula6Duvida.pdb
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\Aula6Duvida\obj\Debug\net6.0\Aula6Duvida.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\Aula6Duvida\obj\Debug\net6.0\Aula6Duvida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\Aula6Duvida\obj\Debug\net6.0\Aula6Duvida.AssemblyInfoInputs.cache
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\Aula6Duvida\obj\Debug\net6.0\Aula6Duvida.AssemblyInfo.cs
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\Aula6Duvida\obj\Debug\net6.0\Aula6Duvida.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\Aula6Duvida\obj\Debug\net6.0\Aula6Duvida.dll
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\Aula6Duvida\obj\Debug\net6.0\refint\Aula6Duvida.dll
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\Aula6Duvida\obj\Debug\net6.0\Aula6Duvida.pdb
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\Aula6Duvida\obj\Debug\net6.0\Aula6Duvida.genruntimeconfig.cache
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\Aula6Duvida\obj\Debug\net6.0\ref\Aula6Duvida.dll
